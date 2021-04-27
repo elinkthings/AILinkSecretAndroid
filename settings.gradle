@@ -1,0 +1,3 @@
+include ':AILinkSecretLibrary'
+include ':app'
+rootProject.name = "AILinkSecretAndroid"
